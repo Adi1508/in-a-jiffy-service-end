@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InaJiffy</string>
+
+    <string-array name="service_arrays">
+        <item >Carpenter</item>
+        <item >Electrician</item>
+        <item >Plumber</item>
+
+    </string-array>
+</resources>
